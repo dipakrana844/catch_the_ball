@@ -1,17 +1,30 @@
-# game
+# Catch the Ball
 
-A new Flutter project.
+A complete 2D "Catch the Ball" game built using Flutter.
+
+## Screenshots
+
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <img src="screenshot/start.jpg" width="250" alt="Start Screen" />
+  <img src="screenshot/home.jpg" width="250" alt="Gameplay Screen" />
+</div>
+
+## Features
+
+- **Dynamic Gameplay**: A falling ball that the player must catch using a controlled basket.
+- **Player Controls**: Intuitive player-controlled basket.
+- **Score & Lives**: Real-time score tracking and lives counter.
+- **Progressive Difficulty**: Increasing difficulty as the game progresses to keep the player challenged.
+- **Smooth Animations**: Fluid animations for an engaging experience.
+- **Clean Architecture**: Built with maintainability and scalability in mind using clean architecture principles.
+- **Responsive Design**: Adapts beautifully to different screen sizes.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, ensure you have Flutter installed on your machine.
 
-A few resources to get you started if this is your first Flutter project:
+1.  Clone the repository.
+2.  Run `flutter pub get` to install dependencies.
+3.  Run `flutter run` to launch the game on your connected device or emulator.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For more information on getting started with Flutter development, please refer to the [official documentation](https://flutter.dev/docs).
